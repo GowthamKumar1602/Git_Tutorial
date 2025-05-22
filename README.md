@@ -30,6 +30,8 @@ Still need to add:
 * Post interactions
 * Allow user to upload profile pictures
 
+Made New Chnages- Check it out
+
 
 
 
